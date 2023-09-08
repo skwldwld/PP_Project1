@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class WordManager { // WordCRUD 구현하는 전체적인 관리 역할/
+public class WordManager { // WordCRUD 구현하는 전체적인 관리 역할
     Scanner s = new Scanner(System.in);
     WordCRUD wordCRUD;
     WordManager() {

@@ -1,6 +1,6 @@
 package org.example;
 
-public class Word {
+public class Word {//
     private int id;
     private int level;
     private String word;

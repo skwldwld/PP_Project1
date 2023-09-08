@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class WordCRUD implements ICRUD{ // wordCRUD에서 데이터 추가하는 함수/
+public class WordCRUD implements ICRUD{ // wordCRUD에서 데이터 추가하는 함수
     ArrayList<Word> list; // <다루고자 하는 데이터 타입> 변수명
     Scanner s;
     final String fname = "Dictionary.txt";
