@@ -9,7 +9,7 @@
    <img src = "https://github.com/skwldwld/PP_Project1/assets/130373396/5b618ba5-6aa7-4916-89d5-3c09ac8f41f6" width = "400">
 
 4. 단어 삭제
-   <img src = "" width = "400">
+   <img src = "https://github.com/skwldwld/PP_Project1/assets/130373396/6aab0d59-9e73-4221-803a-1ccbb53fcf8d" width = "400">
 
 5. 파일 저장
    <img src = "" width = "400">
