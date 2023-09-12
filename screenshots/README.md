@@ -12,7 +12,7 @@
    <img src = "https://github.com/skwldwld/PP_Project1/assets/130373396/6aab0d59-9e73-4221-803a-1ccbb53fcf8d" width = "400">
 
 5. 파일 저장
-   <img src = "" width = "400">
+   <img src = "https://github.com/skwldwld/PP_Project1/assets/130373396/a1254ccb-8a7e-4c0e-9ae2-332aade2c484" width = "400">
 
 6. 수준별 단어 보기
    <img src = "" width = "400">
