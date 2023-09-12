@@ -4,3 +4,18 @@
    
 2. 단어 목록 화면
    <img src = "https://github.com/skwldwld/PP_Project1/assets/130373396/da22cbc3-a3e0-411d-ac19-a56a1f8bb73e" width = "400">
+
+3. 단어 수정
+   <img src = "https://github.com/skwldwld/PP_Project1/assets/130373396/5b618ba5-6aa7-4916-89d5-3c09ac8f41f6" width = "400">
+
+4. 단어 삭제
+   <img src = "" width = "400">
+
+5. 파일 저장
+   <img src = "" width = "400">
+
+6. 수준별 단어 보기
+   <img src = "" width = "400">
+
+7. 단어 검색
+   <img src = "" width = "400">
