@@ -15,7 +15,7 @@
    <img src = "https://github.com/skwldwld/PP_Project1/assets/130373396/a1254ccb-8a7e-4c0e-9ae2-332aade2c484" width = "400">
 
 6. 수준별 단어 보기
-   <img src = "" width = "400">
+   <img src = "https://github.com/skwldwld/PP_Project1/assets/130373396/6aac9a6f-6ad5-4c05-abd9-578f02e7e8fd" width = "400">
 
 7. 단어 검색
    <img src = "" width = "400">
