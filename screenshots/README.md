@@ -18,4 +18,4 @@
    <img src = "https://github.com/skwldwld/PP_Project1/assets/130373396/6aac9a6f-6ad5-4c05-abd9-578f02e7e8fd" width = "400">
 
 7. 단어 검색
-   <img src = "" width = "400">
+   <img src = "https://github.com/skwldwld/PP_Project1/assets/130373396/9ed43dd9-6b84-42be-bf5b-da8a9a558774" width = "400">
